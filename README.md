@@ -1,62 +1,36 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My Enumerable
 
-> Description the project.
+This My Enumerable is to learn how to use a module inside our class.
 
+### Cloning the project
 
-## Built With
+ git clone https://github.com/Theophileaseh/My-Enumerable.git <Your-Build-Directory>
+``` 
+- cd My-Enumerable
+```
+## Prerequisites
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Vscode or anyother
+Setup
+## Install
+    Ruby
+## Run tests
+    Run bundle install
+    Run rubocop
 
 ## Authors
 
-👤 **Author1**
+:bust_in_silhouette: **NWACHAN THEOPHILE**
+- GitHub: [@githubTheophileaseh](https://github.com/Theophileaseh)
+- LinkedIn: [Theophileaseh](https://www.linkedin.com/in/nwachan-theophile/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Theophileaseh/My-Enumerable/issues/).
 
 ## Show your support
 
